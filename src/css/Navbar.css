@@ -1,0 +1,28 @@
+.blue-bg{
+  position: absolute;
+  background-size: cover;
+  background-color: #191716;
+  top: 0;
+  height: 150px;
+  width: 100%;
+  z-index: -1;
+  overflow-x: hidden;
+}
+
+.alinear-izquierda{
+  float: left;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  color: azure;
+  top: 34px;
+}
+
+.imagen-01{
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  width: 120px;
+}

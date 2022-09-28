@@ -1,0 +1,32 @@
+.barra{
+    background-size: cover;
+    background-color: #191716;
+    top: 0;
+    height: 120px;
+    width: 100%;
+    z-index: -1;
+    overflow-x: hidden;
+}
+  
+.alinear-izquierda{
+    float: left;
+}
+
+.alinear-derecha{
+    float: right;
+    align-items: center;
+    float:right;
+}
+  
+.barra h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: #E74C3C ;
+}
+  
+.imagen{
+    align-items: center;
+    left: 25%;
+    top: 25%;
+    width: 130px;
+}
